@@ -1,0 +1,2 @@
+Example:
+docker run --rm --mount type=bind,src="${PWD}/downloads",dst=/downloads wget https://mail.ru mail.ru
